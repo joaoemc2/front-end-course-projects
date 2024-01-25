@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* padding: 16px; */
+  background: #000;
+}
+
+.page-wrapper {
+  width: 100vw;
+  /* height: 100vh; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* grid-template-rows: 3fr 1fr 5fr; */
+
+}
+
+.pad-32 {
+  padding: 32px;
+}
+
+.head-1 {
+  background: white;
+}
+
+.header-2 {
+  background: yellow;
+}
+
+.bannerer {
+  background: white;
+}
+
+.mondrian {
+  background: #3963a4;
+}
+
+.texto {
+  background: white;
+}
+
+.rietveld {
+  background: yellow;
+}
+
+.vermelho {
+  background: red;
+}
+
+.branco {
+  background: white;
+}
+
+.preto {
+  background: black;
+}
