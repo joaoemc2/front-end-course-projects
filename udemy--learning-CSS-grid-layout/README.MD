@@ -8,6 +8,9 @@ Este repositório contém os materiais e códigos das aulas do curso "CSS Avanç
 
 **Curso:** [CSS Avançado - Sass, CSS Grid Layout e CSS Modules](https://www.udemy.com/course/css-avancado/)
 
+## Screenshot
+![Grid](./screenshots/grid_screenshot.jpeg)
+
 ## Aulas sobre CSS Grid
 
 ### 7. CSS Grid - Apresentando o Layout
