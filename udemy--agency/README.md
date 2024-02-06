@@ -42,5 +42,3 @@
 
 11. **Conclusão do Projeto:**
     - Encerramento do projeto Agência, revisão do que foi aprendido e possíveis próximos passos.
-
-Este curso proporciona uma oportunidade valiosa para os alunos adquirirem habilidades essenciais na criação de layouts responsivos e projetos web modernos utilizando Bootstrap 5.
